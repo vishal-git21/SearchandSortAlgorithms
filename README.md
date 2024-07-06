@@ -1,1 +1,1 @@
-# SearchandSortAlgos
+# SearchandSortAlgorithms
